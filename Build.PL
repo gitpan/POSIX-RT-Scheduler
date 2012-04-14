@@ -14,6 +14,7 @@ my $builder = Module::Build->new(
     'Test::More' => '0'
   },
   'configure_requires' => {
+    'Devel::CheckLib' => '0',
     'Module::Build' => '0.3601'
   },
   'requires' => {

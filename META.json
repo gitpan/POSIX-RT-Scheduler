@@ -21,6 +21,7 @@
       },
       "configure" : {
          "requires" : {
+            "Devel::CheckLib" : "0",
             "Module::Build" : "0.3601"
          }
       },
@@ -52,6 +53,6 @@
          "web" : "http://github.com/Leont/posix-rt-scheduler"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 

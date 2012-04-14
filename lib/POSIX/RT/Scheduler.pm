@@ -1,6 +1,6 @@
 package POSIX::RT::Scheduler;
 {
-  $POSIX::RT::Scheduler::VERSION = '0.001';
+  $POSIX::RT::Scheduler::VERSION = '0.002';
 }
 use strict;
 use warnings;
@@ -23,7 +23,7 @@ POSIX::RT::Scheduler - POSIX Scheduler support functions
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
