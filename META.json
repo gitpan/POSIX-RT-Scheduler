@@ -4,7 +4,7 @@
       "Leon Timmermans <leont@cpan.org>"
    ],
    "dynamic_config" : "1",
-   "generated_by" : "Dist::Zilla version 4.300006, CPAN::Meta::Converter version 2.120920",
+   "generated_by" : "Dist::Zilla version 4.300018, CPAN::Meta::Converter version 2.120920",
    "license" : [
       "perl_5"
    ],
@@ -53,6 +53,6 @@
          "web" : "http://github.com/Leont/posix-rt-scheduler"
       }
    },
-   "version" : "0.002"
+   "version" : "0.003"
 }
 
